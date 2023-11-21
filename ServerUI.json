@@ -16,40 +16,32 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
-          "title1": "Welcome to Darkstorm Gaming",
-          "text1": "Check the Following tabs for server rules and Server Commands",
+          "buttontext": "<RichColor Color=\"1,0,0,1\">Server Rules</>",
+          "title1": "Server Rules",
+          "text1": "- No Blocking Spawns \n - Clean up after yourself \n - please cryo dino's unless breeding to reduce server lag",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
       {
         "tab2": {
-          "layout": 2,
-          "buttontext": "2 Box layout",
-          "title1": "Server Rules",
-          "title2": "Server Commands",
-          "text1": "- No Blocking Spawns /n - Clean up after yourself /n - please cryo dino's unless breeding to reduce server lag",
-          "text2": "/Suicide - Kills you instantly /n /unstuck - Teleports you a close distance from where you are when stuck /n /getuniqueID - Gives you the UniqueID of your Account /n /discord - Opens the Discord /n /ccc 0 Copies a CCC Command into your Clipboard /n /donate - Opens the Shop of the Server in your Browser /n /unstuckcorpse - Attempts to unstuck your Corpse, must be nearby /n /vote - Opens the Voting-Link",
+          "layout": 1,
+          "buttontext": "Server Commands",
+          "title1": "Server Commands",
+          "text1": "/Suicide - Kills you instantly \n /unstuck - Teleports you a close distance from where you are when stuck \n /getuniqueID - Gives you the UniqueID of your Account \n /discord - Opens the Discord \n /ccc 0 Copies a CCC Command into your Clipboard \n /donate - Opens the Shop of the Server in your Browser \n /unstuckcorpse - Attempts to unstuck your Corpse, must be nearby \n /vote - Opens the Voting-Link",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       }
     ],
     "links": [
       {
-        "link1": {
-          "text": "Link to Wiki",
-          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
-        }
-      },
-      {
         "link2": {
-          "text": "Link to discord",
+          "text": "Discord",
           "url": "https://discord.gg/AGP6Unts25"
         }
       },
       {
         "link3": {
-          "text": "Donations",
+          "text": "Server Donations",
           "url": "https://google.com"
         }
       }
